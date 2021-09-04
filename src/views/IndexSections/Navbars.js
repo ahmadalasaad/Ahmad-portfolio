@@ -34,7 +34,7 @@ import {
   Row,
   Col
 } from "reactstrap";
-import argonReact from "assets/img/brand/argon-react.png";
+import argonReact from "assets/img/brand/ahmad.png";
 
 class Navbars extends React.Component {
   render() {
