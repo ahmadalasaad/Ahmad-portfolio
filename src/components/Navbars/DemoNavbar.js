@@ -229,7 +229,7 @@ class DemoNavbar extends React.Component {
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip112445449">
-                      Star us on Github
+                      Star us on GitHub
                     </UncontrolledTooltip>
                   </NavItem>
                 </Nav>
